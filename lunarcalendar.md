@@ -4,7 +4,7 @@ Lunar calendar is a productivity application for mobile. This app was designed b
 
 # Privacy
 
-Lunar calendar does not colect any data from user.
+Lunar calendar does not collect any data from user.
 
 # Contact
 If you have any question for Lunar calendar. Please contact xCourtesy team by email: anhhainhabanhtrang@gmail.com
