@@ -1,6 +1,6 @@
 # Lunar Calendar
 
-Lunar calendar is a productivity applications for mobile. This app was designed by xCourtesy team. This app doesn't contain any advertisement. Some features is purchased-for-use.
+Lunar calendar is a productivity application for mobile. This app was designed by xCourtesy team. This app doesn't contain any advertisement. Some features is purchased-for-use.
 
 # Privacy
 
